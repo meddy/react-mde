@@ -15,7 +15,8 @@
     "tsc": "tsc",
     "webpack": "webpack --config webpack.config.demo.dev.js",
     "webpack:prod": "webpack --config webpack.config.demo.prod.js",
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
