@@ -83,8 +83,8 @@
   },
   "homepage": "https://github.com/andrerpena/react-mde.git#readme",
   "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "^16.0.0||^17.0.0",
+    "react-dom": "^16.0.0||^17.0.0"
   },
   "style": "react-mde/lib/styles/css/react-mde-all.css",
   "resolutions": {
